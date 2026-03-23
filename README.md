@@ -2,7 +2,7 @@
 
 <br/>
 
-I am a Software Engineering undergraduate at NUAA, passionate about building robust backend architectures. I enjoy diving deep into Java backend development, AI, and Blockchain technologies to solve complex problems.
+I am a Software Engineering undergraduate at NUAA, passionate about building robust backend architectures. I enjoy diving deep into Java backend development and AI solve complex problems.
 <br/>
 <br/>
 
