@@ -10,7 +10,7 @@ I am a Software Engineering undergraduate at NUAA, passionate about building rob
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a **UAV Flight Plan Management System** and **Split-Screen Weaver**
+- 👀 &nbsp; I’m currently looking for my next software engineering role;
 - 🌱 &nbsp; I’m currently deep-diving into **Java Backend Architecture** ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/choppeer6?tab=repositories)
 - 💼 &nbsp; Recently completed a software development internship and always looking for new challenges;
