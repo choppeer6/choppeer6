@@ -1,10 +1,8 @@
 ## Hey 👋, I'm [Siyuan Guo]!
 
-<a href='[你的 LinkedIn 链接]'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://choppeer6.github.io/'><img align='left' alt="blog" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/website.svg" height='18px'/></a>
 <br/>
 
-I am a Software Engineering undergraduate at NUAA, passionate about building robust backend architectures and exploring decentralized systems. I enjoy diving deep into Java backend development, AI, and Blockchain technologies to solve complex problems.
+I am a Software Engineering undergraduate at NUAA, passionate about building robust backend architectures. I enjoy diving deep into Java backend development, AI, and Blockchain technologies to solve complex problems.
 <br/>
 <br/>
 
@@ -13,7 +11,7 @@ I am a Software Engineering undergraduate at NUAA, passionate about building rob
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on a **UAV Flight Plan Management System** and **Split-Screen Weaver**
-- 🌱 &nbsp; I’m currently deep-diving into **Java Backend Architecture** and **Blockchain/Crypto** concepts; 
+- 🌱 &nbsp; I’m currently deep-diving into **Java Backend Architecture** ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/choppeer6?tab=repositories)
 - 💼 &nbsp; Recently completed a software development internship and always looking for new challenges;
 - 💬 &nbsp; Ask me about Java, Backend dev, or anything tech-related;
